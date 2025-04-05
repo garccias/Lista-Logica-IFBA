@@ -29,15 +29,10 @@ Se você quer reforçar seus conhecimentos em **Lógica de Programação em C**,
 
 1️⃣ **Clone o repositório**:  
    ```bash
-   git clone https://github.com/usuario/100-questoes-logica-ifba.git
+   git clone https://github.com/garccias/100-questoes-logica-ifba.git
    ```  
 2️⃣ **Escolha uma questão ou prova**: Navegue até a pasta da questão e abra o arquivo `.c` correspondente.  
-3️⃣ **Compile e execute**:  
-   ```bash
-   gcc questao1.c -o questao1  
-   ./questao1  
-   ```  
-
+3️⃣ **Compile e execute**
 ## 🎓 Agradecimento  
 
 Agradeço ao professor **Frederico Barboza** pelo apoio e por transformar a lógica de programação em um desafio instigante e motivador. 🙌  
