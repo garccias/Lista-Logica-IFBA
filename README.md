@@ -29,7 +29,7 @@ Se você quer reforçar seus conhecimentos em **Lógica de Programação em C**,
 
 1️⃣ **Clone o repositório**:  
    ```bash
-   git clone https://github.com/garccias/100-questoes-logica-ifba.git
+   git clone https://github.com/garccias/Lista-Logica-IFBA
    ```  
 2️⃣ **Escolha uma questão ou prova**: Navegue até a pasta da questão e abra o arquivo `.c` correspondente.  
 3️⃣ **Compile e execute**
